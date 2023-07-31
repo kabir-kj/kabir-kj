@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir-kj&label=Profile%20views&color=0e75b6&style=flat" alt="kabir-kj" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NPL and R**
+- 🌱 I’m currently learning **Deep Learning, NLP and R**
 
 - 💬 Ask me about **Machine Learning, AI, Gaming, Anime and Life in General ;)**
 
